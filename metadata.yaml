@@ -25,12 +25,17 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Arthur_Heyer
     - https://hu.wikipedia.org/wiki/Heyer_Arthur
+covers:
+- cover_type: archival
+  image_path: 67818-h/images/cover.jpg
 creator:
   author:
     agent_name: Podmaniczky, Frigyes
     gutenberg_agent_id: '54475'
     url: http://www.gutenberg.org/2009/agents/54475
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67818#Az-alfoldi-vadaszok-tanyaja-Regeny
 gutenberg_issued: '2022-04-12'
 identifiers:
   gutenberg: '67818'
